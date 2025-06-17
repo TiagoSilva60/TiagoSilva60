@@ -1,7 +1,6 @@
 ## Olá Eu sou o Tiago Silva
 
 📧  Contate-me no email: servidortiago123@gmail.com
-📕 Estudando Back-End
 🏡Alvorada RS
 
 <div align="center">
